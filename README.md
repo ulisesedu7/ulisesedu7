@@ -2,6 +2,8 @@
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 ![Header](./github-header-image.png)
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 <details>
  <summary>Learn more about me 😄!</summary>
  <ul>
