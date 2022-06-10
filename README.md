@@ -1,7 +1,6 @@
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ulisesedu7&left_color=gray&right_color=green) 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
-<h1 align="center">Hi 👋, I'm Ulises</h1>
-<h3 align="center">A passionate full stack web developer from Honduras</h3>
+![Header](./github-header-image.png)
 
 <details>
  <summary>Learn more about me 😄!</summary>
