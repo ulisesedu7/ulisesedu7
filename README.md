@@ -8,7 +8,7 @@
  <ul>
   <li>I'm currently learning how to be a professional software developer with Microverse!</li>
   <li>I’m available for new opportunities and projects you'd need any help with!</li>
-  <li>My projects are available at [@ulisesedu7](https://ulisesedu7.github.io/Portafolio/)</li>
+  <li>My projects are available at <a href="https://ulisesedu7.github.io/Portafolio/" target=”_blank”>@ulisesedu7</a></li>
   <li>⚡I like a lot: 🎹Music | 🎮Gaming | 🥊Boxing | ⚽Soccer | 🎥Movies & Series | 🍔Food</li>
  </ul>
 </details>
