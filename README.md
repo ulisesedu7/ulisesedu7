@@ -1,4 +1,3 @@
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=ulisesedu7&left_color=gray&right_color=green) 
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 ![Header](./github-header-image.png)
 
